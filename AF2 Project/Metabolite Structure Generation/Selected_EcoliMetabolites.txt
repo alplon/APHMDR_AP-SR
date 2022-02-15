@@ -1,0 +1,326 @@
+ECMDB, MOLECULE_NAME, AVERAGE_MASS, SMILES
+ECMDB20154, Glutathione episulfonium ion, 334.369, [H][C@](N)(CCC(O)=N[C@@]([H])(C[S+]1CC1)C(O)=NCC(O)=O)C(O)=O
+ECMDB01520, Flavin Mononucleotide, 456.3438, CC1=CC2=C(C=C1C)N(C[C@H](O)[C@H](O)[C@H](O)COP(O)(O)=O)C1=NC(=O)NC(=O)C1=N2
+ECMDB01062, N-Acetyl-D-Glucosamine 6-Phosphate, 301.1877, CC(=O)N[C@H]1C(O)O[C@H](COP(O)(O)=O)[C@@H](O)[C@@H]1O
+ECMDB21084, PG(16:0/19:0), 765.0496, [H][C@](O)(CO)COP(O)(=O)OC[C@@]([H])(COC(=O)CCCCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCCCCCCC
+ECMDB20050, 2-Succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate, 328.2714, [H][C@@]1(O)[C@@]([H])(OC(=C)C(O)=O)C=C[C@]([H])(C(=O)CCC(O)=O)[C@@]1([H])C(O)=O
+ECMDB03419, Formyl-CoA, 795.544, [H][C@](O)(C(O)=NCCC(O)=NCCSC=O)C(C)(C)COP(O)(=O)OP(O)(=O)OC[C@@]1([H])O[C@@]([H])(N2C=NC3=C(N)N=CN=C23)[C@]([H])(O)[C@]1([H])OP(O)(O)=O
+ECMDB04108, 1-Myo-inositol 1,2,3,4,5-pentakisphosphate, 569.976, [H]C1(O)[C@]([H])(OP([O-])([O-])=O)[C@]([H])(OP([O-])([O-])=O)C([H])(OP([O-])([O-])=O)[C@@]([H])(OP([O-])([O-])=O)[C@]1([H])OP([O-])([O-])=O
+ECMDB20139, D-Gal alpha 1->6D-Gal alpha 1->6D-Glucose, 504.4371, [H][C@@](O)(CO)[C@@]([H])(O)[C@]([H])(O[C@@]1([H])O[C@]([H])(CO)[C@]([H])(O)[C@]([H])(O)[C@@]1([H])O)[C@@]([H])(O[C@@]1([H])O[C@]([H])(CO)[C@]([H])(O)[C@]([H])(O)[C@@]1([H])O)C=O
+ECMDB00999, Phosphoribosylformylglycineamidine, 313.2017, O[C@H]1[C@@H](O)[C@H](NC(=N)CNC=O)O[C@@H]1COP(O)(O)=O
+ECMDB01058, Fructose 1,6-bisphosphate, 340.1157, O[C@H]1[C@H](O)[C@](O)(COP(O)(O)=O)O[C@@H]1COP(O)(O)=O
+ECMDB07860, PA(16:0/18:2(9Z,12Z)), 672.9127, CCCCCCCCCCCCCCCC(=O)OC[C@]([H])(COP(O)(=O)O)OC(=O)CCCCCCC\C=C/C\C=C/CCCCC
+ECMDB08957, PE(16:1(9Z)/16:1(9Z)), 687.9274, [H][C@@](COC(=O)CCCCCCC\C=C/CCCCCC)(COP(O)(=O)OCCN)OC(=O)CCCCCCC\C=C/CCCCCC
+ECMDB20178, N-Acetylmuramoyl-Ala, 364.3484, [H][C@](C)(O[C@@]1([H])[C@]([H])(O)[C@@]([H])(CO)O[C@]([H])(O)[C@]1([H])N=C(C)O)C(O)=N[C@]([H])(C)C(O)=O
+ECMDB00258, Sucrose, 342.2965, OC[C@H]1O[C@@](CO)(O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@@H]1O
+ECMDB20601, Cyclic pyranopterin monophosphate, 363.2206, [H][C@@]12COP(O)(=O)O[C@]1([H])C(O)(O)[C@]1([H])NC3=C(NC(=N)N=C3O)N[C@]1([H])O2
+ECMDB00960, dGDP, 427.2011, NC1=NC2=C(N=CN2[C@H]2C[C@H](O)[C@@H](COP(O)(=O)OP(O)(O)=O)O2)C(=O)N1
+ECMDB01367, N-Acetyl-glucosamine 1-phosphate, 301.1877, CC(=O)N[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)OC1OP(O)(O)=O
+ECMDB04165, UDP-D-Galacto-1,4-furanose, 566.3018, [H][C@@](O)(CO)[C@]1([H])O[C@]([H])(OP(O)(=O)OP(O)(=O)OC[C@@]2([H])O[C@@]([H])(N3C=CC(O)=NC3=O)[C@]([H])(O)[C@]2([H])O)[C@]([H])(O)[C@@]1([H])O
+ECMDB21030, PG(19:0/14:0), 736.9964, [H][C@](O)(CO)COP(O)(=O)OC[C@@]([H])(COC(=O)CCCCCCCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCC
+ECMDB01193, 5(S)-Hydroperoxyeicosatetraenoic acid, 336.4657, CCCCC\C=C/C\C=C/C\C=C/C=C/[C@H](CCCC(O)=O)OO
+ECMDB20158, Guanosine 3',5'-bis(diphosphate), 603.1603, [H][C@]1(COP(O)(=O)OP(O)(O)=O)O[C@@]([H])(N2C=NC3=C2NC(=N)N=C3O)[C@]([H])(O)[C@]1([H])OP(O)(=O)OP(O)(O)=O
+ECMDB20226, 2-Hydroxydeoxyadenosine 5'-triphosphate, 503.1493, NC1=C2N=CN(C3CC(O)C(COP([O-])(=O)OP(O)(=O)OP([O-])([O-])=O)O3)C2=NC([O-])=N1
+ECMDB21067, PG(18:1(11Z)/17:0), 763.0337, [H]\C(CCCCCC)=C(/[H])CCCCCCCCCC(=O)OCC([H])(COP(O)(=O)OC[C@@]([H])(O)CO)OC(=O)CCCCCCCCCCCCCCCC
+ECMDB01202, dCMP, 307.1971, NC1=NC(=O)N(C=C1)[C@H]1C[C@H](O)[C@@H](COP(O)(O)=O)O1
+ECMDB08920, PE(16:0/14:0), 663.906, [H][C@@](COC(=O)CCCCCCCCCCCCCCC)(COP(O)(=O)OCCN)OC(=O)CCCCCCCCCCCCC
+ECMDB01097, Protoporphyrinogen IX, 568.7058, CC1=C2CC3=C(C)C(C=C)=C(CC4=C(C)C(C=C)=C(CC5=C(C)C(CCC(O)=O)=C(CC(N2)=C1CCC(O)=O)N5)N4)N3
+ECMDB00055, Cellobiose, 342.2965, OC[C@H]1O[C@@H](O[C@H]2[C@H](O)[C@@H](O)[C@H](O)O[C@@H]2CO)[C@H](O)[C@@H](O)[C@@H]1O
+ECMDB20549, Dihydromonapterin-triphosphate, 493.1544, [H][C@](O)(C[O+]P([O-])(=O)OP([O-])(=O)O[P+](O)([O-])[O-])[C@@]([H])(O)C1=[N+]=C2C(O)=NC(=[NH2+])NC2=[NH+]C1
+ECMDB20267, Cellobiose-6-phosphate, 422.2764, [H]C1(O)O[C@]([H])(CO)[C@@]([H])(O[C@]2([H])O[C@]([H])(COP(O)(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]2([H])O)[C@]([H])(O)[C@@]1([H])O
+ECMDB21026, PE(16:0/17:0), 705.9857, [H][C@@](COC(=O)CCCCCCCCCCCCCCC)(COP(O)(=O)OCCN)OC(=O)CCCCCCCCCCCCCCCC
+ECMDB01185, S-Adenosylmethionine, 399.445, [H][C@@](N)(CC[S+](C)C[C@@]1([H])O[C@@]([H])(N2C=NC3=C2N=CN=C3N)[C@]([H])(O)[C@]1([H])O)C(O)=O
+ECMDB08824, PE(14:0/16:0), 663.906, [H][C@@](COC(=O)CCCCCCCCCCCCC)(COP(O)(=O)OCCN)OC(=O)CCCCCCCCCCCCCCC
+ECMDB01003, Adenosine phosphosulfate, 427.284, NC1=NC=NC2=C1N=CN2[C@@H]1O[C@H](COP(O)(=O)OS(O)(=O)=O)[C@@H](O)[C@H]1O
+ECMDB20027, 1-Nitro-7-hydroxy-8-glutathionyl-7,8-dihydronaphthalene, 496.491, [H][C@](N)(CCC(O)=N[C@@]([H])(CSC1([H])C2=C(C=CC=C2N(=O)=O)C=CC1([H])O)C(O)=NCC(O)=O)C(O)=O
+ECMDB20174, N-(5-Phospho-D-ribosyl)anthranilate, 349.2305, [H]C(O)([C@@]1([H])OC([H])(NC2=CC=CC=C2C(O)=O)[C@]([H])(O)[C@]1([H])O)P(O)(O)=O
+ECMDB11629, Guanosine 2',3'-cyclic phosphate, 345.2053, NC1=NC(=O)C2=C(N1)N(C=N2)[C@@H]1O[C@H](CO)[C@H]2OP(O)(=O)O[C@@H]12
+ECMDB01296, Maltotetraose, 666.5777, OC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O)[C@@H](O[C@H]3[C@H](O)[C@@H](O)[C@@H](O[C@H]4[C@H](O)[C@@H](O)C(O)O[C@@H]4CO)O[C@@H]3CO)O[C@@H]2CO)[C@H](O)[C@@H](O)[C@@H]1O
+ECMDB01412, 7,8-Dihydropteroic acid, 314.2994, NC1=NC2=C(N=C(CNC3=CC=C(C=C3)C(O)=O)CN2)C(=O)N1
+ECMDB09022, PE(18:1(11Z)/16:0), 717.9964, [H][C@@](COC(=O)CCCCCCCCC\C=C/CCCCCC)(COP(O)(=O)OCCN)OC(=O)CCCCCCCCCCCCCCC
+ECMDB20573, L-Ala-D-Glu-meso-A2pm, 390.3889, [H][C@@](C)(N)C(O)=N[C@]([H])(CCC(O)=N[C@@]([H])(CCC[C@@]([H])(N)C(O)=O)C(O)=O)C(O)=O
+ECMDB20123, beta-D-Fructose 1,6-bisphosphate, 340.1157, O[C@H]1[C@H](O)[C@@](O)(COP(O)(O)=O)O[C@@H]1COP(O)(O)=O
+ECMDB01384, UDP-Glucuronic acid, 580.2853, O[C@@H]1[C@@H](COP(O)(=O)OP(O)(=O)O[C@H]2O[C@@H]([C@@H](O)[C@H](O)[C@H]2O)C(O)=O)O[C@H]([C@@H]1O)N1C=CC(=O)NC1=O
+ECMDB04169, UDP-N-Acetylmuramoyl-L-alanyl-D-glutamate, 459.41, CCCCCN(CCCCC)C(=O)C(CCC(O)=O)N=C(O)C1=CC(Cl)=C(Cl)C=C1
+ECMDB20088, 4-Glutathionyl cyclophosphamide, 566.394, NC(CCC(O)=NC(CSC1CCOP(=O)(N1)N(CCCl)CCCl)C(O)=NCC(O)=O)C(O)=O
+ECMDB04168, UDP-N-Acetylmuramoyl-L-alanine, 750.4943, [H][C@](C)(O[C@@]1([H])[C@]([H])(O)[C@@]([H])(CO)OC([H])(OP(O)(=O)OP(O)(=O)OC[C@@]2([H])O[C@@]([H])(N3C=CC(O)=NC3=O)[C@]([H])(O)[C@]2([H])O)[C@]1([H])N=C(C)O)C(O)=N[C@@]([H])(C)C(O)=O
+ECMDB09023, PE(18:1(11Z)/16:1(9Z)), 715.9805, [H][C@@](COC(=O)CCCCCCCCC\C=C/CCCCCC)(COP(O)(=O)OCCN)OC(=O)CCCCCCC\C=C/CCCCCC
+ECMDB20175, N-Acetyl-D-galactosamine 6-phosphate, 301.1877, [H]C1(O)O[C@]([H])(COP(O)(O)=O)[C@]([H])(O)[C@]([H])(O)[C@@]1([H])N=C(C)O
+ECMDB20026, 1-Nitro-7-glutathionyl-8-hydroxy-7,8-dihydronaphthalene, 496.491, [H][C@](N)(CCC(O)=N[C@@]([H])(CSC1([H])C=CC2=C(C(=CC=C2)N(=O)=O)C1([H])O)C(O)=NCC(O)=O)C(O)=O
+ECMDB01517, AICAR, 338.2112, NC(=O)C1=C(N)N(C=N1)[C@@H]1O[C@H](COP(O)(O)=O)[C@@H](O)[C@H]1O
+ECMDB20564, Heme D, 658.6546, CC1=C(CCC(O)=O)/C2=C/C3=C(CCC(O)=O)C(C)=C(N3)\C=C3/N=C(/C=C4\N=C(\C=C\1/N\2)C(=O)C4(C)CC(O)=O)C(=O)C3(C)CC(O)=O
+ECMDB06354, Deoxythymidine diphosphate-L-rhamnose, 548.3296, C[C@@H]1OC(OP(O)(=O)OP(O)(=O)OC[C@H]2O[C@H](C[C@@H]2O)N2C=C(C)C(=O)NC2=O)[C@H](O)[C@H](O)[C@H]1O
+ECMDB00280, Phosphoribosyl pyrophosphate, 390.0696, O[C@H]1[C@@H](O)[C@@H](O[P@](O)(=O)OP(O)(O)=O)O[C@@H]1COP(O)(O)=O
+ECMDB21027, PE(16:0/19:0), 734.0389, [H][C@@](COC(=O)CCCCCCCCCCCCCCC)(COP(O)(=O)OCCN)OC(=O)CCCCCCCCCCCCCCCCCC
+ECMDB21070, PG(17:0/16:1(9Z)), 734.9806, [H]\C(CCCCCC)=C(/[H])CCCCCCCC(=O)O[C@]([H])(COC(=O)CCCCCCCCCCCCCCCC)COP(O)(=O)OC[C@@]([H])(O)CO
+ECMDB09019, PE(18:1(11Z)/14:0), 689.9432, [H][C@@](COC(=O)CCCCCCCCC\C=C/CCCCCC)(COP(O)(=O)OCCN)OC(=O)CCCCCCCCCCCCC
+ECMDB01079, 5-Methyltetrahydropteroyltri-L-glutamic acid, 640.5997, [H][C@](N)(CCC(O)=O)C(=O)OC1=NC(=N)NC2=C1N(C)C(=CN2)C([H])(OC(=O)[C@@]([H])(N)CCC(O)=O)C([H])(C)OC(=O)[C@@]([H])(N)CCC(O)=O
+ECMDB01346, GDP-4-Dehydro-6-deoxy-D-mannose, 587.3258, C[C@H]1O[C@H](OP(O)(=O)OP(O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)N2C=NC3=C2N=C(N)NC3=O)[C@@H](O)[C@@H](O)C1=O
+ECMDB21066, PE(16:1(9Z)/19:0), 732.023, [H]\C(CCCCCC)=C(/[H])CCCCCCCC(=O)OC[C@]([H])(COP(O)(=O)OCCN)OC(=O)CCCCCCCCCCCCCCCCCC
+ECMDB20620, Ubiquinone-6, 590.8754, COC1=C(OC)C(=O)C(CC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C)=C(C)C1=O
+ECMDB01487, NADH, 665.441, NC(=O)C1=CN(C=CC1)[C@@H]1O[C@H](CO[P@](O)(=O)O[P@](O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)N2C=NC3=C(N)N=CN=C23)[C@@H](O)[C@H]1O
+ECMDB21103, 1,2-Diacyl-sn-glycerol (didodecanoyl, n-C12:0), 456.6988, CCCCCCCCCCCC(=O)OC[C@H](CO)OC(=O)CCCCCCCCCCC
+ECMDB00961, Farnesyl pyrophosphate, 382.3261, CC(C)=CCC\C(C)=C\CC\C(C)=C\COP(O)(=O)OP(O)(O)=O
+ECMDB08956, PE(16:1(9Z)/16:0), 689.9432, [H][C@@](COC(=O)CCCCCCC\C=C/CCCCCC)(COP(O)(=O)OCCN)OC(=O)CCCCCCCCCCCCCCC
+ECMDB01274, dTDP, 402.1884, CC1=CN([C@H]2C[C@H](O)[C@@H](COP(O)(=O)OP(O)(O)=O)O2)C(=O)NC1=O
+ECMDB20196, Sucrose-6-phosphate, 422.2764, OC[C@H]1O[C@@](CO)(O[C@H]2O[C@H](COP(O)(O)=O)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@@H]1O
+ECMDB20246, 8-Hydroxydeoxyguanosine 5'-triphosphate, 519.1487, OC1CC(OC1COP(O)(=O)OP(O)(=O)OP([O-])([O-])=O)N1C([O-])=NC2=C1NC(=N)N=C2[O-]
+ECMDB01262, Maltotriose, 504.4371, OC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O)[C@@H](O[C@H]3[C@H](O)[C@@H](O)C(O)O[C@@H]3CO)O[C@@H]2CO)[C@H](O)[C@@H](O)[C@@H]1O
+ECMDB00189, Inosine triphosphate, 508.1658, O[C@@H]1[C@@H](COP(O)(=O)OP(O)(=O)OP(O)(O)=O)O[C@H]([C@@H]1O)N1C=NC2=C1N=CN=C2O
+ECMDB01409, dUMP, 308.1819, O[C@H]1C[C@@H](O[C@@H]1COP(O)(O)=O)N1C=CC(=O)NC1=O
+ECMDB00218, Orotidylic acid, 368.1908, O[C@H]1[C@@H](O)[C@@H](O[C@@H]1COP(O)(O)=O)N1C(=O)NC(=O)C=C1C(O)=O
+ECMDB21050, PS(14:0/18:1(11Z)), 733.9527, [H]\C(CCCCCC)=C(/[H])CCCCCCCCCC(=O)O[C@]([H])(COC(=O)CCCCCCCCCCCCC)COP(O)(=O)OC[C@]([H])(N)C(O)=O
+ECMDB07861, PA(18:0/18:2(9Z,12Z)), 700.9659, CCCCCCCCCCCCCCCCCC(=O)OC[C@]([H])(COP(O)(=O)O)OC(=O)CCCCCCC\C=C/C\C=C/CCCCC
+ECMDB00998, dCTP, 467.1569, NC1=NC(=O)N(C=C1)[C@H]1C[C@H](O)[C@@H](COP(O)(=O)OP(O)(=O)OP(O)(O)=O)O1
+ECMDB04220, Biotinyl-5'-AMP, 573.517, NC1=NC=NC2=C1N=CN2[C@@H]1O[C@H](COP(O)(=O)OC(=O)CCCC[C@@H]2SCC3NC(=O)NC23)[C@@H](O)[C@H]1O
+ECMDB20006, (1S)-Hydroxy-(2S)-glutathionyl-1,2-dihydronaphthalene, 451.493, [H][C@](N)(CCC(O)=N[C@@]([H])(CS[C@@]1([H])C=CC2=CC=CC=C2[C@]1([H])O)C(O)=NCC(O)=O)C(O)=O
+ECMDB00058, Cyclic AMP, 329.2059, NC1=NC=NC2=C1N=CN2[C@@H]1O[C@@H]2COP(O)(=O)O[C@H]2[C@H]1O
+ECMDB06876, dTDP-D-Galactose, 564.329, CC1=CN([C@H]2C[C@H](O)[C@@H](COP(O)(=O)OP(O)(=O)O[C@H]3O[C@H](CO)[C@H](O)[C@H](O)[C@H]3O)O2)C(=O)NC1=O
+ECMDB20155, Glutathionylspermidine, 434.554, [H][C@](N)(CCC(O)=N[C@@]([H])(CS)C(O)=NCC(O)=NCCCNCCCCN)C(O)=O
+ECMDB20298, TDP-Glucose, 562.3131, [H][C@]1(O)C[C@@]([H])(O[C@]1([H])COP([O-])(=O)OP(O)(=O)O[C@@]1([H])O[C@]([H])(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O)N1C=C(C)C([O-])=NC1=O
+ECMDB03540, 3'-AMP, 347.2212, NC1=C2N=CN([C@@H]3O[C@H](CO)[C@@H](OP(O)(O)=O)[C@H]3O)C2=NC=N1
+ECMDB00229, Nicotinamide ribotide, 336.2119, O[C@H]1[C@@H](O)[C@@H](O[C@@H]1COP(O)(O)=O)[N+]1=CC=CC(=C1)C(O)=O
+ECMDB01341, ADP, 427.2011, NC1=NC=NC2=C1N=CN2[C@@H]1O[C@H](COP(O)(=O)OP(O)(O)=O)[C@@H](O)[C@H]1O
+ECMDB00045, Adenosine monophosphate, 347.2212, NC1=C2N=CN([C@@H]3O[C@H](COP(O)(O)=O)[C@@H](O)[C@H]3O)C2=NC=N1
+ECMDB03556, Chitobiose, 426.3731, CC(=O)N[C@H]1[C@H](O)O[C@H](CO)[C@@H](O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2NC(O)=O)[C@@H]1O
+ECMDB04010, alpha,alpha-Trehalose 6-phosphate, 422.2764, OCC1OC(OC2OC(COP(O)(O)=O)C(O)C(O)C2O)C(O)C(O)C1O
+ECMDB21020, PE(19:0/19:0), 776.1186, CCCCCCCCCCCCCCCCCCC(=O)OCC(COP(O)(=O)OCCN)OC(=O)CCCCCCCCCCCCCCCCCC
+ECMDB20324, ppGp, 523.1804, [H][C@]1(COP(O)(=O)OP(O)(O)=O)O[C@@]([H])(N2C=NC3=C2NC(=N)N=C3O)[C@]([H])(O)[C@]1([H])OP(O)(O)=O
+ECMDB20148, Formamidopyrimidine nucleoside triphosphate, 541.1957, NC1=NC(N[C@@H]2O[C@H](COP(O)(=O)OP(O)(=O)OP(O)(O)=O)[C@@H](O)[C@H]2O)=C(NC=O)C(=O)N1
+ECMDB20518, N-Acetylmuramate 6-phosphate, 372.2424, [H]C(C)(O[C@@]1([H])[C@]([H])(O)[C@@]([H])(C[O+]P(O)(O)=O)OC([H])(O)[C@]1([H])[NH+]=C(C)[O-])C([O-])=O
+ECMDB01245, dCDP, 387.177, NC1=NC(=O)N(C=C1)[C@H]1C[C@H](O)[C@@H](COP(O)(=O)OP(O)(O)=O)O1
+ECMDB01117, 4-Phosphopantothenoylcysteine, 402.358, CC(C)(COP(O)(O)=O)[C@@H](O)C(=O)NCCC(=O)N[C@@H](CS)C(O)=O
+ECMDB20133, CMP-3-Deoxy-D-manno-octulosonate, 543.3732, [H][C@@](O)(CO)[C@@]1([H])O[C@@](C[C@@]([H])(O)[C@@]1([H])O)(OP(O)(=O)OC[C@@]1([H])O[C@@]([H])(N2C=CC(=N)N=C2O)[C@]([H])(O)[C@]1([H])O)C(O)=O
+ECMDB20099, 5-Amino-6-(5'-phosphoribosylamino)uracil, 354.2106, NC1=C(N[C@@H]2O[C@H](COP(O)(O)=O)[C@@H](O)[C@H]2O)NC(=O)NC1=O
+ECMDB00244, Riboflavin, 376.3639, CC1=C(C)C=C2N(C[C@H](O)[C@H](O)[C@H](O)CO)C3=NC(=O)NC(=O)C3=NC2=C1
+ECMDB11156, PA(20:4(5Z,8Z,11Z,14Z)e/2:0), 486.5785, CCCCC\C=C/C\C=C/C\C=C/C\C=C/CCCCOC[C@]([H])(COP(=O)(O)O)OC(C)=O
+ECMDB06555, DIMP, 332.2066, O[C@H]1C[C@@H](O[C@@H]1COP(O)(O)=O)N1C=NC2=C1NC=NC2=O
+ECMDB04138, Phosphoribosyl-ATP, 720.2835, NC1=[N+](C=NC2=C1N=CN2C1OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C1O)C1OC(COP(O)(O)=O)C(O)C1O
+ECMDB21108, 1,2-Diacyl-sn-glycerol (ditetradec-7-enoyl, n-C14:1), 508.7733, CCCCCC\C=C/CCCCCC(=O)OCC(CO)OC(=O)CCCCC\C=C/CCCCCC
+ECMDB01044, 2'-Deoxyguanosine 5'-monophosphate, 347.2212, NC1=NC(=O)C2=C(N1)N(C=N2)[C@H]1C[C@H](O)[C@@H](COP(O)(O)=O)O1
+ECMDB20575, L-Ala-gamma-D-Glu-Dap, 309.3211, CC(N)C(O)=NC(CCC(O)=O)C(O)=NC1=CC=CC(=N)N1
+ECMDB01121, N-Acetyl-D-mannosamine 6-phosphate, 301.1877, CC(=O)N[C@@H]1[C@@H](O)O[C@H](COP(O)(O)=O)[C@@H](O)[C@@H]1O
+ECMDB21082, PS(16:1(9Z)/17:0), 747.9793, [H]\C(CCCCCC)=C(/[H])CCCCCCCC(=O)OC[C@]([H])(COP(O)(=O)OC[C@]([H])(N)C(O)=O)OC(=O)CCCCCCCCCCCCCCCC
+ECMDB20113, ADP-L-Glycero-D-manno-heptose, 619.3677, [H][C@](O)(CO)[C@@]1([H])OC([H])(OP(O)(=O)OP(O)(=O)OC[C@@]2([H])O[C@@]([H])(N3C=NC4=C(N)N=CN=C34)[C@]([H])(O)[C@]2([H])O)[C@@]([H])(O)[C@@]([H])(O)[C@]1([H])O
+ECMDB20187, S-(2-Chloroacetyl)glutathione, 383.805, [H][C@](N)(CCC(O)=N[C@@]([H])(CSC(=O)CCl)C(O)=NCC(O)=O)C(O)=O
+ECMDB10618, PG(18:1(11Z)/18:1(11Z)), 775.0444, [H][C@](O)(CO)COP(O)(=O)OC[C@@]([H])(COC(=O)CCCCCCCCC\C=C/CCCCCC)OC(=O)CCCCCCCCC\C=C/CCCCCC
+ECMDB21000, D-Urobilinogen, 590.7098, CCC1=C(C)C(=O)NC1CC1=C(C)C(CCC(O)=O)=C(CC2=C(CCC(O)=O)C(C)=C(CC3NC(=O)C(C=C)=C3C)N2)N1
+ECMDB12330, PS(14:0/14:0), 679.8623, [H][C@](N)(COP(O)(=O)OC[C@@]([H])(COC(=O)CCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCC)C(O)=O
+ECMDB01273, Guanosine triphosphate, 523.1804, NC1=NC2=C(N=CN2[C@@H]2O[C@H](COP(O)(=O)OP(O)(=O)OP(O)(O)=O)[C@@H](O)[C@H]2O)C(=O)N1
+ECMDB20191, Salicin 6-phosphate, 366.2577, [H][C@]1(COP(O)(O)=O)O[C@@]([H])(OC2=CC=CC=C2CO)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O
+ECMDB21016, PE(17:0/19:0), 748.0654, CCCCCCCCCCCCCCCCCCC(=O)OC(COC(=O)CCCCCCCCCCCCCCCC)COP(O)(=O)OCCN
+ECMDB20579, Linear dimeric GMP, 705.4021, [H][C@]1(COP(O)(=O)O[C@]2([H])[C@@]([H])(COP(O)([O-])=O)O[C@@]([H])(N3C=NC4=C3NC(=N)N=C4[O-])[C@]2([H])O)O[C@@]([H])(N2C=NC3=C2NC(=N)N=C3[O-])[C@]([H])(O)[C@]1([H])O
+ECMDB20083, 4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol, 519.294, [H][C@@](O)(COP(O)(=O)OP([O-])(=O)OC[C@@]1([H])O[C@@]([H])(N2C=CC(=N)N=C2[O-])[C@]([H])(O)[C@]1([H])O)[C@@](C)(O)CO
+ECMDB00570, Coproporphyrin III, 654.7089, CC1=C(CCC(O)=O)/C2=C/C3=N/C(=C\C4=C(C)C(CCC(O)=O)=C(N4)/C=C4\N=C(\C=C\1/N\2)C(C)=C4CCC(O)=O)/C(CCC(O)=O)=C3C
+ECMDB21104, 1,2-Diacyl-sn-glycerol (dihexadec-9-enoyl, n-C16:1), 564.8797, [H][C@](CO)(COC(=O)CCCCCCC\C=C/CCCCCC)OC(=O)CCCCCCC\C=C/CCCCCC
+ECMDB21041, PG(14:0/19:0), 736.9964, [H][C@](O)(CO)COP(O)(=O)OC[C@@]([H])(COC(=O)CCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCCCCCCC
+ECMDB21105, 1,2-Diacyl-sn-glycerol (dihexadecanoyl, n-C16:0), 568.9114, [H][C@](CO)(COC(=O)CCCCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCCCC
+ECMDB00988, S-Adenosylmethioninamine, 355.436, C[S+](CCCN)C[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=NC2=C1N=CN=C2N
+ECMDB00121, Folic acid, 441.3975, NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1
+ECMDB03536, DIDP, 412.1865, O[C@H]1C[C@@H](O[C@@H]1CO[P@@](O)(=O)OP(O)(O)=O)N1C=NC2=C1NC=NC2=O
+ECMDB21017, PE(19:0/14:0), 705.9857, [H][C@@](COC(=O)CCCCCCCCCCCCCCCCCC)(COP(O)(=O)OCCN)OC(=O)CCCCCCCCCCCCC
+ECMDB20485, UDP-N-Acetylmuramyl-L-Ala, 747.4704, [H][C@](C)(O[C@@]1([H])[C@]([H])(O)[C@@]([H])(CO)OC([H])(OP(O)(=O)OP(O)(=O)OC[C@@]2([H])O[C@@]([H])(N3C=CC([O-])=NC3=O)[C@]([H])(O)[C@]2([H])O)[C@]1([H])N=C(C)[O-])C([O-])=N[C@]([H])(C)C(O)=O
+ECMDB20186, S-(1,2-Dichlorovinyl)glutathione, 402.251, [H]\C(Cl)=C(/Cl)SC[C@]([H])(N=C(O)CC[C@]([H])(N)C(O)=O)C(O)=NCC(O)=O
+ECMDB12366, PS(16:1(9Z)/16:1(9Z)), 731.9369, [H][C@](N)(COP(O)(=O)OC[C@@]([H])(COC(=O)CCCCCCC\C=C/CCCCCC)OC(=O)CCCCCCC\C=C/CCCCCC)C(O)=O
+ECMDB01399, 4,6-Dideoxy-4-oxo-dTDP-D-glucose, 546.3137, C[C@H]1OC(OP(O)(=O)OP(O)(=O)OC[C@H]2O[C@H](C[C@@H]2O)N2C=C(C)C(=O)NC2=O)[C@H](O)[C@@H](O)C1=O
+ECMDB01248, FAD, 785.5497, CC1=CC2=C(C=C1C)N(C[C@H](O)[C@H](O)[C@H](O)CO[P@](O)(=O)O[P@@](O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=NC3=C1N=CN=C3N)C1=NC(=O)NC(=O)C1=N2
+ECMDB20145, D-Ribulose 1,5-bisphosphate, 310.0897, [H][C@@](O)(COP(O)(O)=O)[C@@]([H])(O)C(=O)COP(O)(O)=O
+ECMDB01423, Coenzyme A, 767.534, CC(C)(COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)N1C=NC2=C1N=CN=C2N)C(O)C(=O)NCCC(=O)NCCS
+ECMDB20112, ADP-D-Glycero-D-manno-heptose, 619.3677, [H][C@@](O)(CO)[C@@]1([H])OC([H])(OP(O)(=O)OP(O)(=O)OC[C@@]2([H])O[C@@]([H])(N3C=NC4=C(N)N=CN=C34)[C@]([H])(O)[C@]2([H])O)[C@@]([H])(O)[C@@]([H])(O)[C@]1([H])O
+ECMDB00674, PA(16:0/16:0), 648.8913, CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(O)(O)=O)OC(=O)CCCCCCCCCCCCCCC
+ECMDB00048, Melibiose, 342.2965, OC[C@H]1O[C@H](OC[C@H]2OC(O)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@H]1O
+ECMDB04119, 2-Octaprenyl-6-methoxyphenol, 669.0734, COC1=CC=CC(CC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C)=C1O
+ECMDB21109, 1,2-Diacyl-sn-glycerol (ditetradecanoyl, n-C14:0), 512.8051, [H][C@](CO)(COC(=O)CCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCC
+ECMDB01550, S-Formylglutathione, 335.334, N[C@@H](CCC(=O)N[C@@H](CSC=O)C(=O)NCC(O)=O)C(O)=O
+ECMDB20470, Dimyristoyl phosphatidate, 590.7691, [H][C@@](COC(=O)CCCCCCCCCCCCC)(COP([O-])([O-])=O)OC(=O)CCCCCCCCCCCCC
+ECMDB04085, Inosinic acid, 348.206, O[C@@H]1[C@@H](COP(O)(O)=O)O[C@H]([C@@H]1O)N1C=NC2=C1N=CNC2=O
+ECMDB12278, Phosphoribulosylformimino-AICAR-P, 577.331, O[C@H](COP(=O)(O)O)[C@@H](O)C(=O)CN\C=N\C1=C(C(=O)N)N=CN1[C@H]1O[C@@H](COP(=O)(O)O)[C@H](O)[C@@H]1O
+ECMDB10615, PG(18:1(11Z)/16:0), 749.0071, [H][C@](O)(CO)COP(O)(=O)OC[C@@]([H])(COC(=O)CCCCCCCCC\C=C/CCCCCC)OC(=O)CCCCCCCCCCCCCCC
+ECMDB20562, GMP-Lysine, 492.4008, [H][C@@]([NH3+])(CCCC[NH3+])C(=O)OP(O)(=O)OC[C@@]1([H])O[C@@]([H])(N2C=[N+]C3=C2[N-]C(=N)N=C3O)[C@]([H])(O)[C@]1([H])O
+ECMDB01546, CDP, 403.1764, NC1=NC(=O)N(C=C1)[C@@H]1O[C@H](COP(O)(=O)OP(O)(O)=O)[C@@H](O)[C@H]1O
+ECMDB21021, PG(14:0/16:0), 694.9167, [H][C@](O)(CO)COP(O)(=O)OC[C@@]([H])(COC(=O)CCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCCCC
+ECMDB20325, Decarboxy-SAM, 356.444, [H][C@]1(C[S+](C)CCC[NH3+])O[C@@]([H])(N2C=NC3=C(N)N=CN=C23)[C@]([H])(O)[C@]1([H])O
+ECMDB20558, Fructoselysine-6-phosphate, 386.2922, NC(CCCCNC1OC(COP(O)(O)=O)C(O)C(O)C1=O)C(O)=O
+ECMDB04007, Allolactose, 342.2965, [H]C1(O)O[C@]([H])(CO[C@]2([H])O[C@]([H])(CO)[C@]([H])(O)[C@]([H])(O)[C@@]2([H])O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O
+ECMDB21060, PE(17:0/16:1(9Z)), 703.9698, [H]\C(CCCCCC)=C(/[H])CCCCCCCC(=O)O[C@]([H])(COC(=O)CCCCCCCCCCCCCCCC)COP(O)(=O)OCCN
+ECMDB01439, Phosphoribosyl formamidocarboxamide, 366.2213, NC(=O)C1=C(NC=O)N(C=N1)[C@@H]1O[C@H](COP(O)(O)=O)[C@@H](O)[C@H]1O
+ECMDB01317, N5-Carboxyaminoimidazole ribonucleotide, 339.1959, OC1C(COP(O)(O)=O)OC(C1O)N1C=NC=C1NC(O)=O
+ECMDB00290, Uridine diphosphate-N-acetylglucosamine, 607.3537, CC(=O)N[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@@H]1OP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=CC(=O)NC1=O
+ECMDB21037, PS(14:0/19:0), 749.9952, [H][C@](N)(COP(O)(=O)OC[C@@]([H])(COC(=O)CCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCCCCCCC)C(O)=O
+ECMDB20062, 2',3'-Cyclic UMP, 306.166, OC[C@H]1O[C@H]([C@@H]2OP(O)(=O)O[C@H]12)N1C=CC(=O)NC1=O
+ECMDB01416, Pantetheine 4'-phosphate, 358.348, CC(C)(COP(O)(O)=O)[C@@H](O)C(=O)NCCC(=O)NCCS
+ECMDB06557, ADP-Glucose, 589.3417, NC1=C2N=CN([C@@H]3O[C@H](CO[P@](O)(=O)O[P@](O)(=O)O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)[C@@H](O)[C@H]3O)C2=NC=N1
+ECMDB20035, 2-(S-Glutathionyl)acetyl glutathione, 654.668, [H][C@](N)(CCC(O)=N[C@@]([H])(CSCC(=O)SC[C@]([H])(N=C(O)CC[C@]([H])(N)C(O)=O)C(O)=NCC(O)=O)C(O)=NCC(O)=O)C(O)=O
+ECMDB20170, Lipoyl-AMP, 535.532, NC1=NC=NC2=C1N=CN2[C@@H]1O[C@H](COP(O)(=O)OC(=O)CCCCC2CCSS2)[C@@H](O)[C@H]1O
+ECMDB21018, PE(19:0/16:0), 734.0389, [H][C@@](COC(=O)CCCCCCCCCCCCCCCCCC)(COP(O)(=O)OCCN)OC(=O)CCCCCCCCCCCCCCC
+ECMDB20189, S-(Formylmethyl)glutathione, 349.36, [H][C@](N)(CCC(O)=N[C@@]([H])(CSCC=O)C(O)=NCC(O)=O)C(O)=O
+ECMDB01142, FMNH, 458.3597, CC1=CC2=C(C=C1C)N(CC(O)C(O)C(O)COP(O)(O)=O)C1=C(N2)C(=O)NC(=O)N1
+ECMDB10616, PG(18:1(11Z)/16:1(9Z)), 746.9913, [H][C@](O)(CO)COP(O)(=O)OC[C@@]([H])(COC(=O)CCCCCCCCC\C=C/CCCCCC)OC(=O)CCCCCCC\C=C/CCCCCC
+ECMDB01396, 5-Methyltetrahydrofolic acid, 459.4558, CN1C(CNC2=CC=C(C=C2)C(=O)N[C@H](CCC(O)=O)C(O)=O)CNC2=C1C(=O)NC(N)=N2
+ECMDB00905, Deoxyadenosine monophosphate, 331.2218, NC1=NC=NC2=C1N=CN2[C@H]1C[C@H](O)[C@@H](COP(O)(O)=O)O1
+ECMDB00285, Uridine triphosphate, 484.1411, O[C@H]1[C@@H](O)[C@@H](O[C@@H]1COP(O)(=O)OP(O)(=O)OP(O)(O)=O)N1C=CC(=O)NC1=O
+ECMDB20058, 2,5-Diamino-6-(5'-phosphoribosylamino)-4-pyrimidineone, 353.2258, NC1=NC(N[C@@H]2O[C@H](COP(O)(O)=O)[C@@H](O)[C@H]2O)=C(N)C(O)=N1
+ECMDB21075, PG(16:1(9Z)/19:0), 763.0337, [H]\C(CCCCCC)=C(/[H])CCCCCCCC(=O)OCC([H])(COP(O)(=O)OC[C@@]([H])(O)CO)OC(=O)CCCCCCCCCCCCCCCCCC
+ECMDB08924, PE(16:0/16:1(9Z)), 689.9432, [H][C@@](COC(=O)CCCCCCCCCCCCCCC)(COP(O)(=O)OCCN)OC(=O)CCCCCCC\C=C/CCCCCC
+ECMDB21063, PG(16:0/14:0), 694.9167, [H][C@](O)(CO)COP(O)(=O)OC[C@@]([H])(COC(=O)CCCCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCC
+ECMDB04053, (2,3-Dihydroxybenzoyl)adenylic acid, 483.3261, [H][C@]1(COP(O)(=O)OC(=O)C2=C(O)C(O)=CC=C2)O[C@@]([H])(N2C=NC3=C(N)N=CN=C23)[C@]([H])(O)[C@]1([H])O
+ECMDB20019, 1-(2-Carboxyphenylamino)-1'-deoxy-D-ribulose 5'-phosphate, 349.2305, O[C@H](COP(O)(O)=O)[C@@H](O)C(=O)CNC1=C(C=CC=C1)C(O)=O
+ECMDB01197, FADH2, 787.5656, CC1=CC2=C(C=C1C)N(C[C@H](O)[C@H](O)[C@H](O)COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=NC3=C1N=CN=C3N)C1=C(N2)C(=O)NC(=O)N1
+ECMDB00293, Xanthosine 5-triphosphate, 524.1652, O[C@@H]1[C@@H](COP(O)(=O)OP(O)(=O)OP(O)(O)=O)O[C@H]([C@@H]1O)N1C=NC2=C1N=C(O)N=C2O
+ECMDB01178, Adenosine diphosphate ribose, 559.3157, [H][C@@]1(O)O[C@]([H])(COP(O)(=O)OP(O)(=O)OC[C@@]2([H])O[C@@]([H])(N3C=NC4=C(N)N=CN=C34)[C@]([H])(O)[C@]2([H])O)[C@@]([H])(O)[C@@]1([H])O
+ECMDB20202, UDP-N-Acetyl-D-mannosamine, 607.3537, CC(=O)N[C@@H]1[C@H](O)[C@@H](O)[C@H](CO)OC1OP(O)(=O)OP(O)(=O)OC[C@@H]1O[C@@H]([C@@H](O)[C@H]1O)N1C=CC(=O)NC1=O
+ECMDB02666, Thiamine monophosphate, 344.327, CC1=C(CCO[P@](O)([O-])=O)SC=[N+]1CC1=CN=C(C)N=C1N
+ECMDB21106, 1,2-Diacyl-sn-glycerol (dioctadec-11-enoyl, n-C18:1), 620.986, [H][C@](CO)(COC(=O)CCCCCCCCC\C=C/CCCCCC)OC(=O)CCCCCCCCC\C=C/CCCCCC
+ECMDB20347, alpha-N-acetylneuraminate, 308.2619, [H][C@](O)(CO)C([H])(O)[C@]1([H])O[C@](O)(C[C@]([H])(O)C1([H])N=C(C)[O-])C(O)=O
+ECMDB20594, NMNH, 336.235, [H][C@]1(COP(O)(O)=O)O[C@@]([H])(N2C=CCC(=C2)C(O)=N)[C@]([H])(O)[C@]1([H])O
+ECMDB20081, 3'-UMP, 324.1813, [H][C@]1(CO)O[C@@]([H])(N2C=CC(O)=NC2=O)[C@]([H])(O)[C@]1([H])OP(O)(O)=O
+ECMDB21014, PE(17:0/16:0), 705.9857, [H][C@@](COC(=O)CCCCCCCCCCCCCCCC)(COP(O)(=O)OCCN)OC(=O)CCCCCCCCCCCCCCC
+ECMDB20469, Distearoyl phosphatidate, 702.9818, [H][C@@](COC(=O)CCCCCCCCCCCCCCCCC)(COP([O-])([O-])=O)OC(=O)CCCCCCCCCCCCCCCCC
+ECMDB08953, PE(16:1(9Z)/14:0), 661.8901, [H][C@@](COC(=O)CCCCCCC\C=C/CCCCCC)(COP(O)(=O)OCCN)OC(=O)CCCCCCCCCCCCC
+ECMDB01271, Pseudouridine 5'-phosphate, 324.1813, O[C@H]1[C@@H](O)[C@@H](O[C@@H]1COP(O)(O)=O)C1=CNC(=O)NC1=O
+ECMDB20613, dTDP-4-Acetamido-4,6-dideoxy-D-galactose, 589.3815, C[C@H]1OC(OP(O)(=O)OP(O)(=O)OCC2OC(CC2O)N2C=C(C)C(=O)NC2=O)[C@H](O)[C@@H](O)C1NC(C)=O
+ECMDB12332, PS(14:0/16:0), 707.9155, [H][C@](N)(COP(O)(=O)OC[C@@]([H])(COC(=O)CCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCCCC)C(O)=O
+ECMDB12277, PhosphoribosylformiminoAICAR-phosphate, 577.331, NC(=O)C1=C(\N=C\NC2OC(COP(O)(O)=O)C(O)C2O)N(C=N1)C1OC(COP(O)(O)=O)C(O)C1O
+ECMDB00163, D-Maltose, 342.2965, OC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@H](O)[C@@H](O)O[C@@H]2CO)[C@H](O)[C@@H](O)[C@@H]1O
+ECMDB04120, 2-Octaprenylphenol, 639.0474, CC(C)=CCC\C(C)=C\CC\C(C)=C\CC\C(C)=C\CC\C(C)=C\CC\C(C)=C\CC\C(C)=C\CC\C(C)=C\CC1=CC=CC=C1O
+ECMDB21055, PS(17:0/16:0), 749.9952, [H][C@](N)(COP(O)(=O)OC[C@@]([H])(COC(=O)CCCCCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCCCC)C(O)=O
+ECMDB07864, PA(18:1(9Z)/18:1(11Z)), 700.9659, CCCCCCCC\C=C/CCCCCCCC(=O)OC[C@]([H])(COP(O)(=O)O)OC(=O)CCCCCCCCC\C=C/CCCCCC
+ECMDB20428, Hydroxymethyl-dCDP, 415.1639, [H][C@]1(O)C[C@]([H])(O[C@@]1([H])COP(O)(=O)OP([O-])([O-])=O)N1C=C(CO)C([O-])=NC1=O
+ECMDB20078, 3,4-Dihydro-3-hydroxy-4-S-glutathionyl bromobenzene, 480.331, [H][C@](N)(CCC(O)=N[C@@]([H])(CSC1([H])C=CC(Br)=CC1([H])O)C(O)=NCC(O)=O)C(O)=O
+ECMDB00972, N10-Formyl-THF, 473.4393, NC1=NC(=O)C2=C(NCC(CN(C=O)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)N2)N1
+ECMDB01532, dATP, 487.152, [H][C@]1(O)C[C@@]([H])(O[C@]1([H])COP([O-])(=O)OP([O-])(=O)OP([O-])([O-])=O)N1C=NC2=C(N)N=CN=C12
+ECMDB20003, (1R)-Glutathionyl-(2R)-hydroxy-1,2-dihydronaphthalene, 451.493, [H][C@](N)(CCC(O)=N[C@@]([H])(CS[C@]1([H])C2=CC=CC=C2C=C[C@@]1([H])O)C(O)=NCC(O)=O)C(O)=O
+ECMDB20238, 5-Methylaminomethyl-2-thiouridine, 303.335, [H][C@@]1(CO)O[C@]([H])(N2C=C(CNC)C(O)=NC2=S)[C@@]([H])(O)[C@@]1([H])O
+ECMDB20054, 2,3-Bis(3-hydroxytetradecanoyl)-beta-D-glucosaminyl 1-phosphate, 711.8611, [H]C(O)(CCCCCCCCCCC)CC(=O)O[C@@]1([H])[C@]([H])(O)[C@@]([H])(CO)O[C@]([H])(OP(O)(O)=O)[C@]1([H])N=C(O)CC([H])(O)CCCCCCCCCCC
+ECMDB01066, S-Lactoylglutathione, 379.386, C[C@@H](O)C(=O)SC[C@H](NC(=O)CC[C@H](N)C(O)=O)C(=O)NCC(O)=O
+ECMDB20557, Fructoselysine, 306.3123, NC(CCCCNC1OC(CO)C(O)C(O)C1=O)C(O)=O
+ECMDB01174, Tetrahydropteroyltri-L-glutamic acid, 626.5732, [H][C@](N)(CCC(O)=O)C(=O)OC1=NC(=N)NC2=C1NC(=CN2)C([H])(OC(=O)[C@@]([H])(N)CCC(O)=O)C([H])(C)OC(=O)[C@@]([H])(N)CCC(O)=O
+ECMDB04662, S-(Hydroxymethyl)glutathione, 337.349, N[C@@H](CCC(=O)N[C@@H](CSCO)C(=O)NCC(O)=O)C(O)=O
+ECMDB20106, 5-O-(1-Carboxyvinyl)-3-phosphoshikimate, 324.178, O[C@H]1[C@@H](CC(=C[C@H]1OP(O)(O)=O)C(O)=O)OC(=C)C(O)=O
+ECMDB06872, D-Tagatose 1,6-bisphosphate, 340.1157, O[C@@H]1[C@H](O)C(O)(COP(O)(O)=O)O[C@@H]1COP(O)(O)=O
+ECMDB20110, 7,8-Dihydro-7-hydroxy-8-S-glutathionyl-benzo[a]pyrene, 575.632, [H][C@](N)(CCC(O)=N[C@@]([H])(CSC1([H])C=CC2=C3C=CC4=CC=CC5=C4C3=C(C=C5)C=C2C1([H])O)C(O)=NCC(O)=O)C(O)=O
+ECMDB20055, 2,3-Dihydro-2-S-glutathionyl-3-hydroxy bromobenzene, 480.331, [H][C@](N)(CCC(O)=N[C@@]([H])(CSC1([H])C(Br)=CC=CC1([H])O)C(O)=NCC(O)=O)C(O)=O
+ECMDB01134, Phosphoadenosine phosphosulfate, 507.264, NC1=NC=NC2=C1N=CN2[C@@H]1O[C@H](COP(O)(=O)OS(O)(=O)=O)[C@@H](OP(O)(O)=O)[C@H]1O
+ECMDB20281, Molybdopterin guanine dinucleotide, 738.541, OC(COP(O)(=O)OP(O)(=O)OCC1OC(C(O)C1O)N1C=NC2=C1NC(=N)N=C2O)C(=S)C(=S)C1=CNC2=C(N1)C(O)=NC(=N)N2
+ECMDB00288, Uridine 5'-monophosphate, 324.1813, O[C@H]1[C@@H](O)[C@@H](O[C@@H]1COP(O)(O)=O)N1C=CC(=O)NC1=O
+ECMDB01163, Guanosine diphosphate mannose, 605.3411, NC1=NC2=C(N=CN2[C@@H]2O[C@H](COP(O)(=O)OP(O)(=O)O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)[C@@H](O)[C@H]2O)C(=O)N1
+ECMDB20429, Hydroxymethyl-dCTP, 495.1438, [H][C@]1(O)C[C@]([H])(O[C@@]1([H])COP(O)(=O)OP(O)(=O)OP([O-])([O-])=O)N1C=C(CO)C([O-])=NC1=O
+ECMDB20079, 3'-CMP, 323.1965, OC1C(O)C(OC1COP(O)(O)=O)N1C=CC(=N)N=C1O
+ECMDB04033, CDPglucose, 563.3011, [H][C@]1(COP([O-])(=O)OP(O)(=O)O[C@@]2([H])O[C@]([H])(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]2([H])O)O[C@@]([H])(N2C=CC(=N)N=C2[O-])[C@]([H])(O)[C@]1([H])O
+ECMDB20096, 4,5-Dihydro-4-hydroxy-5-S-glutathionyl-benzo[a]pyrene, 575.632, [H][C@](N)(CCC(O)=N[C@@]([H])(CSC1([H])C2=CC3=CC=CC=C3C3=C2C2=C(C=CC=C2C1([H])O)C=C3)C(O)=NCC(O)=O)C(O)=O
+ECMDB03826, 6,7-Dimethyl-8-(1-D-ribityl)lumazine, 326.3052, CC1=C(C)N(CC(O)C(O)C(O)CO)C2=NC(=O)NC(=O)C2=N1
+ECMDB21054, PS(18:1(11Z)/16:1(9Z)), 759.99, [H]\C(CCCCCC)=C(/[H])CCCCCCCCCC(=O)OC[C@]([H])(COP(O)(=O)OC[C@]([H])(N)C(O)=O)OC(=O)CCCCCCC\C([H])=C(\[H])CCCCCC
+ECMDB07865, PA(18:1(9Z)/18:1(9Z)), 700.9659, CCCCCCCC\C=C/CCCCCCCC(=O)OC[C@]([H])(COP(O)(=O)O)OC(=O)CCCCCCC\C=C/CCCCCCCC
+ECMDB20612, dTDP-D-Fucosamine, 547.3448, [H]C1(O)CC([H])(OC1([H])COP(O)(=O)OP(O)(=O)O[C@@]1([H])O[C@]([H])(C)[C@]([H])(N)[C@]([H])(O)[C@@]1([H])O)N1C=C(C)C(O)=NC1=O
+ECMDB12333, PS(14:0/16:1(9Z)), 705.8996, [H][C@](N)(COP(O)(=O)OC[C@@]([H])(COC(=O)CCCCCCCCCCCCC)OC(=O)CCCCCCC\C=C/CCCCCC)C(O)=O
+ECMDB20192, Sedoheptulose 1,7-bisphosphate, 370.1417, OC(COP(O)(O)=O)C(O)C(O)C(O)C(=O)COP(O)(O)=O
+ECMDB04137, Phosphoribosyl-AMP, 559.3157, O[C@@H]1[C@@H](COP(O)(O)=O)O[C@H]([C@@H]1O)N1C=NC2=C1N=CN([C@H]1O[C@H](COP(O)(O)=O)[C@@H](O)[C@H]1O)C2=N
+ECMDB21015, PE(17:0/17:0), 720.0123, CCCCCCCCCCCCCCCCC(=O)OCC(COP(O)(=O)OCCN)OC(=O)CCCCCCCCCCCCCCCC
+ECMDB10573, PG(16:0/18:1(11Z)), 749.0071, [H][C@](O)(CO)COP(O)(=O)OC[C@@]([H])(COC(=O)CCCCCCCCCCCCCCC)OC(=O)CCCCCCCCC\C=C/CCCCCC
+ECMDB01227, 5-Thymidylic acid, 322.2085, CC1=CN([C@H]2C[C@H](O)[C@@H](COP(O)(O)=O)O2)C(=O)NC1=O
+ECMDB21042, PS(17:0/14:0), 721.942, [H][C@](N)(COP(O)(=O)OC[C@@]([H])(COC(=O)CCCCCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCC)C(O)=O
+ECMDB03514, alpha-D-Glucose 1,6-bisphosphate, 340.1157, O[C@H]1[C@H](O)[C@@H](COP(O)(O)=O)O[C@H](OP(O)(O)=O)[C@@H]1O
+ECMDB01179, Nicotinic acid adenine dinucleotide, 665.4178, NC1=C2N=CN([C@@H]3O[C@H](COP(O)(=O)OP(O)(=O)OC[C@H]4O[C@H]([C@H](O)[C@@H]4O)[N+]4=CC=CC(=C4)C(O)=O)[C@@H](O)[C@H]3O)C2=NC=N1
+ECMDB04052, 2,5-Diamino-6-hydroxy-4-(5-phosphoribosylamino)pyrimidine, 353.2258, [H]C(O)([C@@]1([H])OC([H])(NC2=C(N)C(O)=NC(=N)N2)[C@]([H])(O)[C@]1([H])O)P(O)(O)=O
+ECMDB04117, 2-Octaprenyl-6-hydroxyphenol, 651.12, CC(C)=CCC\C(C)=C\CC\C(C)=C\CC\C(C)=C\CC\C(C)=C\CC\C(C)=C\CC\C(C)=C\CC\C(C)=C\CC1=C(C)C(C)=CC=C1
+ECMDB12352, PS(16:0/14:0), 707.9155, [H][C@](N)(COP(O)(=O)OC[C@@]([H])(COC(=O)CCCCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCC)C(O)=O
+ECMDB21062, PE(17:0/18:1(11Z)), 732.023, [H]\C(CCCCCC)=C(/[H])CCCCCCCCCC(=O)O[C@]([H])(COC(=O)CCCCCCCCCCCCCCCC)COP(O)(=O)OCCN
+ECMDB01342, Thymidine 5'-triphosphate, 482.1683, CC1=CN([C@H]2C[C@H](O)[C@@H](COP(O)(=O)OP(O)(=O)OP(O)(O)=O)O2)C(=O)NC1=O
+ECMDB01354, 5,10-Methylene-THF, 457.4399, [H][C@@]12CN(CN1C1=C(NC2)N=C(N)NC1=O)C1=CC=C(C=C1)C(=O)NC(CCC(O)=O)C(O)=O
+ECMDB20059, 2,5-Diaminopyrimidine nucleoside triphosphate, 513.1856, NC1=NC(N[C@@H]2O[C@H](COP(O)(=O)OP(O)(=O)OP(O)(O)=O)[C@@H](O)[C@H]2O)=C(N)C(=O)N1
+ECMDB03502, Myo-inositol hexakisphosphate, 660.0353, OP(O)(=O)OC1C(OP(O)(O)=O)C(OP(O)(O)=O)C(OP(O)(O)=O)C(OP(O)(O)=O)C1OP(O)(O)=O
+ECMDB11616, Adenosine 2',3'-cyclic phosphate, 329.2059, [H]C1(CO)O[C@]([H])(N2C=NC3=C(N)N=CN=C23)C2([H])OP(O)(=O)OC12[H]
+ECMDB08821, PE(14:0/14:0), 635.8528, [H][C@@](COC(=O)CCCCCCCCCCCCC)(COP(O)(=O)OCCN)OC(=O)CCCCCCCCCCCCC
+ECMDB01397, Guanosine monophosphate, 363.2206, NC1=NC2=C(N=CN2[C@@H]2O[C@H](COP(O)(O)=O)[C@@H](O)[C@H]2O)C(=O)N1
+ECMDB00302, Uridine diphosphategalactose, 566.3018, OC[C@H]1O[C@H](O[P@@](O)(=O)O[P@@](O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)N2C=CC(=O)NC2=O)[C@H](O)[C@@H](O)[C@H]1O
+ECMDB20188, S-(2,2-Dichloro-1-hydroxy)ethyl glutathione, 420.266, [H][C@](N)(CCC(O)=N[C@@]([H])(CSC([H])(O)C(Cl)Cl)C(O)=NCC(O)=O)C(O)=O
+ECMDB01285, Geranyl-PP, 314.2091, CC(C)=CCC\C(C)=C\CO[P@@](=O)(O)OP(=O)(O)O
+ECMDB20537, TDP-Rhamnose, 544.3409, [H][C@]1(O)C[C@]([H])(O[C@@]1([H])CCP([O-])(=O)OP([O-])(=O)O[C@@]1([H])O[C@@]([H])(C)[C@@]([H])(O)[C@@]([H])(O)[C@@]1([H])O)[N+]1=C[C+](C)C(O)=NC1=O
+ECMDB20608, L-Seryl-AMP, 434.2985, [H][C@](N)(CO)C(=O)OP(O)(=O)OC[C@@]1([H])O[C@@]([H])(N2C=NC3=C(N)N=CN=C23)[C@]([H])(O)[C@]1([H])O
+ECMDB21019, PE(19:0/17:0), 748.0654, [H][C@@](COC(=O)CCCCCCCCCCCCCCCCCC)(COP(O)(=O)OCCN)OC(=O)CCCCCCCCCCCCCCCC
+ECMDB11155, PA(P-16:0e/18:2(9Z,12Z)), 656.9133, CCCCCCCCCCCCCC\C=C/OC[C@]([H])(COP(=O)(O)O)OC(=O)CCCCCCC\C=C/C\C=C/CCCCC
+ECMDB01440, dGTP, 507.181, NC1=NC2=C(N=CN2[C@H]2C[C@H](O)[C@@H](COP(O)(=O)OP(O)(=O)OP(O)(O)=O)O2)C(=O)N1
+ECMDB20034, 2-(S-Glutathionyl)acetyl chloride, 383.805, [H][C@](N)(CCC(O)=N[C@@]([H])(CSCC(Cl)=O)C(O)=NCC(O)=O)C(O)=O
+ECMDB20171, Maltose 6'-phosphate, 422.2764, [H][C@]1(O)O[C@]([H])(CO)[C@@]([H])(O[C@@]2([H])O[C@]([H])(COP(O)(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]2([H])O)[C@]([H])(O)[C@@]1([H])O
+ECMDB21045, PS(19:0/16:0), 778.0484, [H][C@](N)(COP(O)(=O)OC[C@@]([H])(COC(=O)CCCCCCCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCCCC)C(O)=O
+ECMDB06273, 5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate, 339.1959, NC1=C(N=CN1[C@@H]1O[C@H](COP(O)(O)=O)[C@@H](O)[C@H]1O)C(O)=O
+ECMDB20068, 3-Deoxy-D-manno-octulosonate 8-phosphate, 315.148, OC(COP([O-])([O-])=O)C(O)C(O)C(O)CC(=O)C([O-])=O
+ECMDB04167, UDP-N-Acetyl-3-(1-carboxyvinyl)-D-glucosamine, 677.4005, [H][C@]1(COP(O)(=O)OP(O)(=O)O[C@@]2([H])O[C@]([H])(CO)[C@@]([H])(O)[C@]([H])(OC(=C)C(O)=O)[C@@]2([H])N=C(C)O)O[C@@]([H])(N2C=CC(O)=NC2=O)[C@]([H])(O)[C@]1([H])O
+ECMDB00061, Adenosine 3',5'-diphosphate, 427.2011, NC1=NC=NC2=C1N=CN2[C@@H]1O[C@H](COP(O)(O)=O)[C@@H](OP(O)(O)=O)[C@H]1O
+ECMDB01332, Adenylsuccinic acid, 463.2934, O[C@@H]1[C@@H](COP(O)(O)=O)O[C@H]([C@@H]1O)N1C=NC2=C(N[C@@H](CC(O)=O)C(O)=O)N=CN=C12
+ECMDB02158, Coproporphyrinogen I, 660.7566, CC1=C2CC3=C(CCC(O)=O)C(C)=C(CC4=C(CCC(O)=O)C(C)=C(CC5=C(CCC(O)=O)C(C)=C(CC(N2)=C1CCC(O)=O)N5)N4)N3
+ECMDB04063, 2'-Deoxyinosine triphosphate, 492.1664, O[C@H]1C[C@@H](O[C@@H]1COP(O)(=O)OP(O)(=O)OP(O)(O)=O)N1C=NC2=C1NC=NC2=O
+ECMDB01261, Coproporphyrinogen III, 660.7566, CC1=C2CC3=C(C)C(CCC(O)=O)=C(CC4=C(CCC(O)=O)C(C)=C(CC5=C(CCC(O)=O)C(C)=C(CC(N2)=C1CCC(O)=O)N5)N4)N3
+ECMDB07862, PA(18:1(11Z)/18:1(11Z)), 700.9659, CCCCCC\C=C/CCCCCCCCCC(=O)OC[C@]([H])(COP(O)(=O)O)OC(=O)CCCCCCCCC\C=C/CCCCCC
+ECMDB12363, PS(16:1(9Z)/14:0), 705.8996, [H][C@](N)(COP(O)(=O)OC[C@@]([H])(COC(=O)CCCCCCC\C=C/CCCCCC)OC(=O)CCCCCCCCCCCCC)C(O)=O
+ECMDB04171, UDP-Glucose, 566.3018, OC[C@@H]1OC(OP(O)(=O)OP(O)(=O)OC[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)N2C=CC(=O)NC2=O)[C@@H](O)[C@H](O)[C@H]1O
+ECMDB01373, Dephospho-CoA, 687.554, CC(C)(COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=NC2=C1N=CN=C2N)C(O)C(=O)NCCC(=O)NCCS
+ECMDB04034, Cyclic GMP, 345.2053, NC1=NC2=C(N=CN2[C@@H]2O[C@@H]3COP(O)(=O)O[C@H]3[C@H]2O)C(=O)N1
+ECMDB21028, PE(17:0/14:0), 677.9325, [H][C@@](COC(=O)CCCCCCCCCCCCCCCC)(COP(O)(=O)OCCN)OC(=O)CCCCCCCCCCCCC
+ECMDB06834, D-Pantothenoyl-L-cysteine, 322.378, CC(C)(CO)[C@@H](O)C(=O)NCCC(=O)N[C@@H](CS)C(O)=O
+ECMDB03335, IDP, 428.1859, O[C@@H]1[C@@H](COP(O)(=O)OP(O)(O)=O)OC([C@@H]1O)N1C=NC2=C1NC=NC2=O
+ECMDB01308, 5'-Phosphoribosyl-N-formylglycineamide, 314.1865, O[C@H]1[C@@H](O)[C@H](NC(=O)CNC=O)O[C@@H]1COP(O)(O)=O
+ECMDB20117, Arbutin 6-phosphate, 352.2311, [H][C@]1(COP(O)(O)=O)O[C@@]([H])(OC2=CC=C(O)C=C2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O
+ECMDB20547, Diacetylchitobiose-6-phosphate, 504.3802, [H][C@@]1(O)O[C@]([H])(CO)[C@@]([H])(O[C@@]2([H])O[C@]([H])(COP(O)(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]2([H])N=C(C)O)[C@]([H])(O)[C@@]1([H])N=C(C)O
+ECMDB21086, PG(17:0/14:0), 708.9433, [H][C@](O)(CO)COP(O)(=O)OC[C@@]([H])(COC(=O)CCCCCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCC
+ECMDB01060, Ubiquinol-8, 731.1412, COC1=C(OC)C(O)C(C\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CCC=C(C)C)=C(C)C1O
+ECMDB07858, PA(16:0/18:1(11Z)), 674.9286, CCCCCCCCCCCCCCCC(=O)OC[C@]([H])(COP(O)(=O)O)OC(=O)CCCCCCCCC\C=C/CCCCCC
+ECMDB20156, Guanosine 3'-diphosphate 5'-triphosphate, 683.1402, [H][C@]1(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)O[C@@]([H])(N2C=NC3=C2NC(=N)N=C3O)[C@]([H])(O)[C@]1([H])OP(O)(=O)OP(O)(O)=O
+ECMDB03266, UDP-N-Acetylmuraminate, 679.4164, CC(OC1C(O)C(CO)OC(OP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2O)N2C=CC(=O)NC2=O)C1NC(C)=O)C(O)=O
+ECMDB00082, Cytidine triphosphate, 483.1563, NC1=NC(=O)N(C=C1)[C@@H]1O[C@H](COP(O)(=O)OP(O)(=O)OP(O)(O)=O)[C@@H](O)[C@H]1O
+ECMDB21049, PG(17:0/16:0), 736.9964, [H][C@](O)(CO)COP(O)(=O)OC[C@@]([H])(COC(=O)CCCCCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCCCC
+ECMDB20033, 2-(alpha-D-Mannosyl)-3-phosphoglycerate, 348.1978, [H]C(COP(O)(O)=O)(O[C@@]1([H])O[C@]([H])(CO)[C@@]([H])(O)[C@]([H])(O)[C@]1([H])O)C(O)=O
+ECMDB00939, S-Adenosylhomocysteine, 384.411, N[C@@H](CCSC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=NC2=C(N)N=CN=C12)C(O)=O
+ECMDB08959, PE(16:1(9Z)/18:1(11Z)), 715.9805, [H][C@@](COC(=O)CCCCCCC\C=C/CCCCCC)(COP(O)(=O)OCCN)OC(=O)CCCCCCCCC\C=C/CCCCCC
+ECMDB01328, dTDP-D-Glucose, 564.329, CC1=CN([C@H]2C[C@H](O)[C@@H](COP(O)(=O)OP(O)(=O)OC3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)O2)C(=O)NC1=O
+ECMDB20025, 1-Nitro-5-hydroxy-6-glutathionyl-5,6-dihydronaphthalene, 496.491, [H][C@](N)(CCC(O)=N[C@@]([H])(CSC1([H])C=CC2=C(C=CC=C2N(=O)=O)C1([H])O)C(O)=NCC(O)=O)C(O)=O
+ECMDB00186, alpha-Lactose, 342.2965, OC[C@H]1O[C@@H](O[C@H]2[C@H](O)[C@@H](O)[C@@H](O)O[C@@H]2CO)[C@H](O)[C@@H](O)[C@H]1O
+ECMDB01144, Dihydroneopterin triphosphate, 495.1703, NC1=NC2=C(N=C(CN2)[C@H](O)[C@H](O)COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(=O)N1
+ECMDB01056, Dihydrofolic acid, 441.405, [H][C@@](CCC([O-])=O)(NC(=O)C1=CC=C(NCC2=NC3=C(NC2)NC(=N)N=C3[O-])C=C1)C(O)=O
+ECMDB00217, NADP, 744.4129, NC(=O)C1=C[N+](=CC=C1)[C@@H]1O[C@H](CO[P@](O)(=O)O[P@](O)(=O)OC[C@H]2O[C@H]([C@H](OP(O)(O)=O)[C@@H]2O)N2C=NC3=C(N)N=CN=C23)[C@@H](O)[C@H]1O
+ECMDB21024, PE(14:0/17:0), 677.9325, CCCCCCCCCCCCCCCCC(=O)OC(COC(=O)CCCCCCCCCCCCC)COP(O)(=O)OCCN
+ECMDB01095, GDP-L-Fucose, 589.3417, C[C@@H]1OC(OP(O)(=O)OP(O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)N2C=NC3=C2N=C(N)NC3=O)[C@@H](O)[C@H](O)[C@@H]1O
+ECMDB21073, PG(16:1(9Z)/17:0), 734.9806, [H]\C(CCCCCC)=C(/[H])CCCCCCCC(=O)OCC([H])(COP(O)(=O)OC[C@@]([H])(O)CO)OC(=O)CCCCCCCCCCCCCCCC
+ECMDB21065, PE(16:1(9Z)/17:0), 703.9698, [H]\C(CCCCCC)=C(/[H])CCCCCCCC(=O)OC[C@]([H])(COP(O)(=O)OCCN)OC(=O)CCCCCCCCCCCCCCCC
+ECMDB01191, Deoxyuridine triphosphate, 468.1417, O[C@H]1C[C@@H](O[C@@H]1COP(O)(=O)OP(O)(=O)OP(O)(O)=O)N1C=CC(=O)NC1=O
+ECMDB00295, Uridine 5'-diphosphate, 404.1612, O[C@H]1[C@@H](O)[C@@H](O[C@@H]1COP(O)(=O)OP(O)(O)=O)N1C=CC(=O)NC1=O
+ECMDB20622, XDP, 444.1853, [H][C@]1(COP(O)(=O)OP(O)(O)=O)O[C@@]([H])(N2C=NC3=C2N=C(O)N=C3O)[C@]([H])(O)[C@]1([H])O
+ECMDB21033, PG(19:0/17:0), 779.0762, [H][C@](O)(CO)COP(O)(=O)OC[C@@]([H])(COC(=O)CCCCCCCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCCCCC
+ECMDB04111, NADPH, 745.4209, NC(=O)C1=CN(C=CC1)[C@H]1O[C@@H](COP(O)(=O)OP(O)(=O)OC[C@@H]2O[C@@H]([C@@H](OP(O)(O)=O)[C@H]2O)N2C=NC3=C(N)N=CN=C23)[C@H](O)[C@@H]1O
+ECMDB21064, PE(19:0/16:1(9Z)), 732.023, [H]\C(CCCCCC)=C(/[H])CCCCCCCC(=O)O[C@]([H])(COC(=O)CCCCCCCCCCCCCCCCCC)COP(O)(=O)OCCN
+ECMDB01201, Guanosine diphosphate, 443.2005, NC1=NC2=C(N=CN2[C@@H]2O[C@H](COP(O)(=O)OP(O)(O)=O)[C@@H](O)[C@H]2O)C(=O)N1
+ECMDB08923, PE(16:0/16:0), 691.9591, [H][C@@](COC(=O)CCCCCCCCCCCCCCC)(COP(O)(=O)OCCN)OC(=O)CCCCCCCCCCCCCCC
+ECMDB20049, 2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol, 597.257, [H][C@@](O)(COP(O)(=O)OP([O-])(=O)OC[C@@]1([H])O[C@@]([H])(N2C=CC(=N)N=C2[O-])[C@]([H])(O)[C@]1([H])O)[C@](C)(CO)OP([O-])([O-])=O
+ECMDB01094, Octaprenyl diphosphate, 722.9112, CC(C)=CCC\C(C)=C\CC\C(C)=C\CC\C(C)=C\CC\C(C)=C\CC\C(C)=C\CC\C(C)=C\CC\C(C)=C\COP(O)(=O)OP(O)(O)=O
+ECMDB00797, SAICAR, 454.2833, NC1=C(N=CN1[C@@H]1O[C@H](COP(O)(O)=O)[C@@H](O)[C@H]1O)C(=O)N[C@@H](CC(O)=O)C(O)=O
+ECMDB21025, PE(14:0/19:0), 705.9857, [H][C@@](COC(=O)CCCCCCCCCCCCC)(COP(O)(=O)OCCN)OC(=O)CCCCCCCCCCCCCCCCCC
+ECMDB00902, NAD, 664.433, NC(=O)C1=C[N+](=CC=C1)[C@@H]1O[C@H](COP(O)(=O)OP(O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)N2C=NC3=C2N=CN=C3N)[C@@H](O)[C@H]1O
+ECMDB08827, PE(14:0/18:1(11Z)), 689.9432, [H][C@@](COC(=O)CCCCCCCCCCCCC)(COP(O)(=O)OCCN)OC(=O)CCCCCCCCC\C=C/CCCCCC
+ECMDB00095, Cytidine monophosphate, 323.1965, NC1=NC(=O)N(C=C1)[C@@H]1O[C@H](COP(O)(O)=O)[C@@H](O)[C@H]1O
+ECMDB01391, GDP-4-Dehydro-6-L-deoxygalactose, 587.3258, C[C@@H]1OC(OP(O)(=O)OP(O)(=O)OCC2O[C@H]([C@H](O)[C@@H]2O)N2C=NC3=C2N=C(N)NC3=O)[C@@H](O)[C@H](O)C1=O
+ECMDB01846, Tetrahydrofolic acid, 445.4292, NC1=NC(=O)C2=C(NC[C@H](CNC3=CC=C(C=C3)C(=O)NC(CCC(O)=O)C(O)=O)N2)N1
+ECMDB11145, PA(16:0e/18:0), 662.961, [H][C@@](COCCCCCCCCCCCCCCCC)(COP(O)(O)=O)OC(=O)CCCCCCCCCCCCCCCCC
+ECMDB00241, Protoporphyrin IX, 562.6582, CC1=C(CCC(O)=O)/C2=C/C3=N/C(=C\C4=C(C)C(C=C)=C(N4)/C=C4\N=C(\C=C\1/N\2)C(C=C)=C4C)/C(C)=C3CCC(O)=O
+ECMDB01000, dUDP, 388.1618, O[C@H]1C[C@@H](O[C@@H]1COP(O)(=O)OP(O)(O)=O)N1C=CC(=O)NC1=O
+ECMDB00538, Adenosine triphosphate, 507.181, NC1=NC=NC2=C1N=CN2[C@@H]1O[C@H](COP(O)(=O)OP(O)(=O)OP(O)(O)=O)[C@@H](O)[C@H]1O
+ECMDB20024, 1-Nitro-5-glutathionyl-6-hydroxy-5,6-dihydronaphthalene, 496.491, [H][C@](N)(CCC(O)=N[C@@]([H])(CSC1([H])C2=C(C=CC1([H])O)C(=CC=C2)N(=O)=O)C(O)=NCC(O)=O)C(O)=O
+ECMDB20161, Inositol 1,2,3,5,6-pentakisphosphate, 580.0554, [H]C1(O)[C@]([H])(OP(O)(O)=O)[C@]([H])(OP(O)(O)=O)C([H])(OP(O)(O)=O)[C@@]([H])(OP(O)(O)=O)[C@]1([H])OP(O)(O)=O
+ECMDB03882, N1-(5-Phospho-a-D-ribosyl)-5,6-dimethylbenzimidazole, 358.2836, CC1=CC2=C(C=C1C)N(C=N2)[C@H]1O[C@H](COP(O)(O)=O)[C@@H](O)[C@H]1O
+ECMDB20177, N-Acetylmuramic acid 6-phosphate, 373.2504, [H][C@](C)(O[C@@]1([H])[C@]([H])(O)[C@@]([H])(COP(O)(O)=O)OC([H])(O)[C@]1([H])N=C(C)O)C(O)=O
+ECMDB01554, Xanthylic acid, 364.2054, O[C@@H]1[C@@H](COP(O)(O)=O)O[C@H]([C@@H]1O)N1C=NC2=C1NC(=O)NC2=O
+ECMDB20157, Guanosine 3'-phosphate, 363.2206, OCC1OC(C(O)C1OP(O)(O)=O)N1C=NC2=C1NC(=N)N=C2O
+ECMDB06823, 2,5-Diamino-6-(5'-triphosphoryl-3',4'-trihydroxy-2'-oxopentyl)-amino-4-oxopyrimidine, 513.1856, NC1=NC(=O)C(N)=C(NCC(=O)C(O)C(O)COP(O)(=O)OP(O)(=O)OP(O)(O)=O)N1
+ECMDB07859, PA(16:0/18:1(9Z)), 674.9286, CCCCCCCCCCCCCCCC(=O)OC[C@]([H])(COP(O)(=O)O)OC(=O)CCCCCCC\C=C/CCCCCCCC
+ECMDB01124, Trehalose 6-phosphate, 422.2764, OC[C@H]1O[C@H](O[C@H]2O[C@H](COP(O)(O)=O)[C@@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@@H](O)[C@@H]1O
+ECMDB21068, PG(18:1(11Z)/19:0), 791.0869, [H]\C(CCCCCC)=C(/[H])CCCCCCCCCC(=O)OCC([H])(COP(O)(=O)OC[C@@]([H])(O)CO)OC(=O)CCCCCCCCCCCCCCCCCC
+ECMDB01562, N5-Formyl-H4F, 473.4393, NC1=NC2=C(N(C=O)C(CNC3=CC=C(C=C3)C(=O)NC(CCC(O)=O)C(O)=O)CN2)C(=O)N1
+ECMDB20004, (1R)-Hydroxy-(2R)-glutathionyl-1,2-dihydronaphthalene, 451.493, [H][C@](N)(CCC(O)=N[C@@]([H])(CS[C@]1([H])C=CC2=CC=CC=C2[C@@]1([H])O)C(O)=NCC(O)=O)C(O)=O
+ECMDB11688, Ribose 1,5-bisphosphate, 310.0897, O[C@H]1[C@@H](O)[C@@H](OP(O)(O)=O)O[C@@H]1COP(O)(O)=O
+ECMDB01372, Thiamine pyrophosphate, 425.314, CC1=C(CCO[P@](O)(=O)OP(O)(O)=O)SC=[N+]1CC1=CN=C(C)N=C1N
+ECMDB00830, N-Acetylneuraminic acid, 309.2699, CC(=O)N[C@@H]1[C@@H](O)C[C@](O)(O[C@H]1[C@H](O)[C@H](O)CO)C(O)=O
+ECMDB00975, Trehalose, 342.2965, OC[C@H]1O[C@H](O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@@H](O)[C@@H]1O
+ECMDB07863, PA(18:1(11Z)/18:1(9Z)), 700.9659, CCCCCCCC\C=C/CCCCCCCC(=O)O[C@]([H])(COC(=O)CCCCCCCCC\C=C/CCCCCC)COP(O)(=O)O
+ECMDB21005, Cinnavalininate, 300.2231, NC1=C(C(O)=O)C2=NC3=C(C=CC=C3OC2=CC1=O)C(O)=O
+ECMDB04166, Uridine diphosphate glucuronic acid, 580.2853, O[C@@H]1[C@@H](COP(O)(=O)OP(O)(=O)O[C@H]2O[C@@H]([C@@H](O)[C@H](O)[C@H]2O)C(O)=O)O[C@H]([C@@H]1O)N1C=CC(=O)NC1=O
+ECMDB00125, Glutathione, 307.323, N[C@@H](CCC(=O)N[C@@H](CS)C(=O)NCC(O)=O)C(O)=O
+ECMDB21044, PS(19:0/14:0), 749.9952, [H][C@](N)(COP(O)(=O)OC[C@@]([H])(COC(=O)CCCCCCCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCC)C(O)=O
