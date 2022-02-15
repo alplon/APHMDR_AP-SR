@@ -1,0 +1,10 @@
+receptor = T1056_AlphaFold.pdbqt
+
+center_x = -0.9574999999999996
+center_y = 3.249500000000001
+center_z = 1.7084999999999972
+size_x = 43.543
+size_y = 48.421
+size_z = 47.319
+
+exhaustiveness = 10

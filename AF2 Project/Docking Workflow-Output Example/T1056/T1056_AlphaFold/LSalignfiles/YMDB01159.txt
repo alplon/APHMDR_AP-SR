@@ -1,0 +1,9 @@
+
+        QEURY_NAME         TEMPL_NAME PC-score8Q PC-score8T  Pval_PC8Q  Pval_PC8T   JaccardR    RMSD_lb    QUERY_SIZE     TEMPL_SIZE 
+                                                                                                         (Without "H")  (Without "H")
+                                          0.7069     0.7069   0.054331   0.054331     0.1831     3.3170             42             42
+
+Using 0.002024-s to load mol2 files.
+Using 0.104059-s to do LS-align. 
+Totally Using 0.106083-s.
+

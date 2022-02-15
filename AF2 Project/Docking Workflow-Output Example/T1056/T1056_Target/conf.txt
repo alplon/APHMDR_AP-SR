@@ -1,0 +1,10 @@
+receptor = T1056_Target.pdbqt
+
+center_x = 5.332000000000001
+center_y = 51.047
+center_z = 44.5585
+size_x = 45.196
+size_y = 40.89600000000001
+size_z = 49.277
+
+exhaustiveness = 10
