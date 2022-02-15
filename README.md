@@ -4,6 +4,7 @@ This repository holds data for "Assessing Protein Homology Models with Docking R
 Recommended order of viewing project workflow + information about each directory. 
 
 >Metabolite Structure Generation
+  >saSASSD
 
 >Target - Exp and Predicted Models.zip
 
