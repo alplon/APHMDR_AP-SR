@@ -1,6 +1,8 @@
 # APHMDR_AP-SR
 This repository holds data for "Assessing Protein Homology Models with Docking Reproducibility" by Alexander P. Plonski and Scott M. Reed.
 
+Published as: A.P. Plonski, S.M. Reed, Assessing protein homology models with docking reproducibility, Journal of Molecular Graphics and Modelling (2023), doi: https://doi.org/10.1016/j.jmgm.2023.108430.
+
 Recommended order of viewing project workflow + information about each directory. 
 
 >Metabolite Structure Generation
